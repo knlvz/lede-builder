@@ -1,7 +1,7 @@
 FROM ubuntu:16.04
 MAINTAINER me@knlvz.com
 
-#用于coolsnowwolf/lede-17.01源码项目的编译构建,此为稳定版
+#用于coolsnowwolf/lede-17.01源码项目的编译构建,此版本为稳定版
 
 RUN \
   apt-get update && \
